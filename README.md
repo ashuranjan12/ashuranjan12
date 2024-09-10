@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ashutosh Ranjan</h1>
 <h3 align="center">A passionate Software Engineer from India</h3>
 
-<img align="right" alt="coding" width="400" src="https://github.com/user-attachments/assets/52e8d0f9-14df-40ca-8657-65c502fd5301">
+<img align="right" alt="coding" width="400" src="https://github.com/user-attachments/assets/a3665d00-07b5-4685-8142-096dbab5239e">
 
 
 
